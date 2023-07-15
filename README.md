@@ -23,7 +23,7 @@ My final result was obtaining a heatmap to show the mean scores of effectivenes,
 ![My Image](WebMD/heatmap_of-rate2.jpg)
 
 ## GC content of genome 
-**Code:** [`GC content`](https://github.com/kuiros7/PORTFOLIO/blob/main/WEBMD.ipynb)<br>
+**Code:** [`GC content`](https://github.com/kuiros7/PORTFOLIO/blob/main/Biostatistics/GC%20content.ipynb)<br>
 **Skills:** Basic statistics (Plotly)
 
 The next project of a basic analysis of GC content from genome sequences of eukaryote, prokaryote and virus organisms from NCBI. First plot is a violin plot in which I concluded that the GC% content does not vary on eukaryote and viruses. But on the case of prokaryote the results differs from the other groups.<br>
