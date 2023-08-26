@@ -1,7 +1,7 @@
 # PYTHON Portfolio as a biotechnology engineer
 Welcome to my portfolio and thanks for your consideration by reading it 
 
-I learned how to program by self-learning Python and SQL, as my background is more related towards engineering and biotechnology. I believe that Python is a powerful tool and I found it really useful to apply it into computational biology and data science. I have a solid understanding of Python but I'm still doing an effort to have an advance knowledge for powerful machine learning and statistical analysis.
+I learned how to program by self-learning Python and SQL, as my background is more related towards engineering and biotechnology. I believe that Python is a powerful tool and I found it really useful to apply it into computational biology and data science. I have a solid understanding of Python but I'm still doing an effort to have an advance knowledge for powerful machine learning, statistical analysis, and neural networks.
 
 With this portfolo I want to show my abilities of ETL, exploratory analysis, data visualization, machine learning and statistics. I will be using basic libraries such as numpy, pandas, seaborn, and scikitlearn. I have included 3 projects which will help to showcase my abilities
 
@@ -40,6 +40,11 @@ This project was based on a Novozyme competition to predict the stability of enz
 I took a main reference from this [`code`](https://www.kaggle.com/code/cdeotte/public-lb-1st-place-solution/notebook) as they implement random forest and hill climbing.
 
 ![My Image](Novozyme/tree.png)
+
+## Neural-network assembly
+**Code:** [`MNSIT`](https://github.com/kuiros7/Neural-Networks/blob/main/MNIST.ipynb) <br>
+**Skills:** Deep Learning (pandas, numpy) <br>
+With the use of the MNSIT database I've been learning from scratch how to build a neural network with numpy and basic math to understand the basis and they apply it to more complex situations. 
 
 #### Other projects:
 [`Web scraping of Virus families with BeautifulSoup`](https://github.com/kuiros7/PORTFOLIO/blob/main/Other%20projects/Viruses.ipynb) <br>
